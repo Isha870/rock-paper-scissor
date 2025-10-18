@@ -11,7 +11,9 @@ You can play against the computer — just choose your move and see who wins!
 - User vs Computer gameplay  
 - Randomized computer choices  
 - Clear and simple console output  
-- Beginner-friendly Python code  
+- Beginner-friendly Python code
+
+---
 
 ---
 
@@ -20,6 +22,8 @@ You can play against the computer — just choose your move and see who wins!
 1. The user selects one of three options: `rock`, `paper`, or `scissors`.  
 2. The computer randomly chooses one as well (using Python’s `random` module).  
 3. The program compares both choices and declares the winner or a tie.  
+
+---
 
 ---
 
@@ -53,6 +57,8 @@ You can play against the computer — just choose your move and see who wins!
 
 ---
 
+---
+
 ## Contributing
 
 Contributions are welcome! Here are some ideas:
@@ -66,20 +72,20 @@ Feel free to fork the repository, make your modifications, and submit a pull req
 
 ---
 
+---
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE) (if you choose to include one).
 
 ---
 
+---
 ## Contact / About
 
 Created by [Isha870](https://github.com/Isha870).
 Have questions or ideas? Submit an issue or pull request on GitHub.
-
 ---
 
-Enjoy playing! 🥳
 
-```
 
