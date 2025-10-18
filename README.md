@@ -1,23 +1,20 @@
-# Rock Paper Scissors Game 🎮
+# 🎮 Rock Paper Scissors Game
 
-A simple and fun Rock Paper Scissors game built using Python.
-
-You can play against the computer — just choose your move and see who wins!
+A simple and fun **Rock Paper Scissors** game built using **Python**.  
+Play against the computer — just choose your move and see who wins!
 
 ---
 
-## Features
+## 🚀 Features
 
 - User vs Computer gameplay  
 - Randomized computer choices  
 - Clear and simple console output  
-- Beginner-friendly Python code
+- Beginner-friendly Python code  
 
 ---
 
----
-
-## How It Works
+## 🧠 How It Works
 
 1. The user selects one of three options: `rock`, `paper`, or `scissors`.  
 2. The computer randomly chooses one as well (using Python’s `random` module).  
@@ -25,67 +22,69 @@ You can play against the computer — just choose your move and see who wins!
 
 ---
 
----
+## 🛠️ Technologies Used
 
-## Technologies Used
-
-- Python 3  
-- `random` module for computer move generation  
+- **Python 3**  
+- **random** module for computer move generation  
 
 ---
 
-## How to Run the Project
+## ▶️ How to Run the Project
 
-1. Clone the repository:
-   ```
+1. **Clone the repository:**
+   ```bash
    git clone https://github.com/Isha870/rock-paper-scissor.git
    ```
 
-2. Navigate into the folder:
+2. **Navigate into the folder:**
 
    ```bash
    cd rock-paper-scissor
    ```
-3. Run the game script:
+
+3. **Run the game script:**
 
    ```bash
    python RockPaperScissor.py
    ```
 
-   (or `python3 RockPaperScissor.py` depending on your environment)
-4. Follow the prompts to play.
+   (or use `python3 RockPaperScissor.py` depending on your setup)
+
+4. **Follow the prompts** to play and enjoy!
 
 ---
 
----
+## 💡 Contributing
 
-## Contributing
-
-Contributions are welcome! Here are some ideas:
+Contributions are welcome! Here are some ideas to improve the project:
 
 * Add support for replaying rounds without restarting the script
-* Track and display the player’s win/lose/tie statistics
-* Add a graphical interface (e.g., using `tkinter`)
-* Expand the game to “Rock Paper Scissors Lizard Spock” variant
+* Track and display player win/lose/tie statistics
+* Create a GUI using `tkinter`
+* Expand the game to include “Rock Paper Scissors Lizard Spock”
 
-Feel free to fork the repository, make your modifications, and submit a pull request.
-
----
+Feel free to **fork** the repository, make your changes, and submit a **pull request**.
 
 ---
 
-## License
+## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE) (if you choose to include one).
-
----
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
-## Contact / About
 
-Created by [Isha870](https://github.com/Isha870).
+## 👩‍💻 Contact / About
+
+Created by [**Isha870**](https://github.com/Isha870).
 Have questions or ideas? Submit an issue or pull request on GitHub.
+
 ---
 
+✨ *Enjoy playing and keep coding!* ✨
+
+```
 
 
+
+Would you like me to make it **GitHub-styled with emojis and badges** (like “Made with Python 🐍” or “Stars ⭐”) to make it look more professional and attractive on your profile?
+```
