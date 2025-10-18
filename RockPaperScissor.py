@@ -16,12 +16,19 @@ def determine_winner(user_choice, computer_choice):
     else:
         return "Computer wins!"
 
+# Optional: Initialize scores
+user_score = 0
+computer_score = 0
+
 # Main game loop
 while True:
-    user_choice = input("Enter rock, paper, or scissors (or 'quit' to exit): ").lower()
+    user_choice = input("Enter rock, paper, or scissors (or 'quit' to exit): ").lower().strip()
+    
     if user_choice == "quit":
         print("Thanks for playing!")
+        print(f"Final Score -> You: {user_score} | Computer: {computer_score}")
         break
+    
     if user_choice not in options:
         print("Invalid choice. Try again.")
         continue
@@ -32,4 +39,10 @@ while True:
     result = determine_winner(user_choice, computer_choice)
     print(result)
     print("-" * 20)
+    
+    # Update scores
+    if result == "You win!":
+        user_score += 1
+    elif result == "Computer wins!":
+        computer_score += 1
 
